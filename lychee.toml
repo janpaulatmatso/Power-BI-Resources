@@ -1,0 +1,14 @@
+# Configuration for https://github.com/lycheeverse/lychee
+
+max_retries = 3
+timeout = 30
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
+
+# Rate limiting and bot protection can make these return errors even when the page works.
+accept = ["200..=299", "403", "429"]
+
+exclude = [
+  # Reddit and Stack Overflow block automated requests.
+  "^https://www\\.reddit\\.com/",
+  "^https://stackoverflow\\.com/",
+]
