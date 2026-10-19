@@ -48,6 +48,9 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Microsoft Fabric adoption roadmap](https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap) - Framework for data culture, governance, Center of Excellence and mentoring.
 - [Fabric known issues](https://learn.microsoft.com/fabric/known-issues/fabric-known-issues) - Currently active bugs in Power BI and Fabric, with workarounds.
 - [Fabric support & status](https://support.fabric.microsoft.com/) - Service health and support portal.
+- [What is Microsoft Fabric?](https://learn.microsoft.com/fabric/fundamentals/microsoft-fabric-overview) - Overview of the platform Power BI is part of.
+- [What's new in Microsoft Fabric](https://learn.microsoft.com/fabric/fundamentals/whats-new) - Rolling list of new and updated Fabric features.
+- [Power BI white papers](https://learn.microsoft.com/power-bi/guidance/whitepapers) - In-depth papers on architecture, security, performance and deployment.
 
 ## Learning & Courses
 
@@ -66,6 +69,9 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Tabular Editor Learn](https://tabulareditor.com/learn) 🆓 - Free courses on Tabular Editor, TMDL, Semantic Link and DAX UDFs, with a certification exam.
 - [LinkedIn Learning: Power BI](https://www.linkedin.com/learning/topics/power-bi) 💰 - Large library of video courses, by subscription.
 - [Skillwave Training](https://skillwave.training/) 🔀 - Ken Puls' Power Query Academy plus DAX and Power BI courses.
+- [End-to-end Power BI scenarios](https://learn.microsoft.com/power-bi/fundamentals/power-bi-learning-path-directory) 🆓 - Microsoft's directory of learning paths by role and skill level.
+- [Introducing DAX](https://www.sqlbi.com/p/introducing-dax-video-course/) 🆓 - SQLBI's free introductory DAX video course.
+- [Fabric Notes](https://microsoft.github.io/fabricnotes/) 🆓 - Simple drawings that explain the main Fabric concepts.
 
 ## Certifications
 
@@ -85,6 +91,7 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [SQLBI articles](https://www.sqlbi.com/articles/) 🆓 - Hundreds of in-depth articles on DAX and data modeling.
 - [DAX Formatter](https://www.daxformatter.com/) 🆓 - Formats DAX code according to the SQLBI style.
 - [DAX.tips](https://dax.tips/) 🆓 - Phil Seamark's advanced DAX and performance articles.
+- [How to learn DAX](https://www.sqlbi.com/guides/dax/) 🆓 - SQLBI's guide to learning DAX, from scratch to advanced.
 
 **Power Query / M**
 
@@ -92,6 +99,7 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [powerquery.how](https://powerquery.how/) 🆓 🇳🇱 - Rick de Groot's complete, example-based M function reference.
 - [Power Query M Primer](https://bengribaudo.com/power-query-m-primer) 🆓 - Ben Gribaudo's deep series on the M language.
 - [Power Query Formatter](https://www.powerqueryformatter.com/) 🆓 - Formats M code.
+- [Power Query connectors](https://learn.microsoft.com/power-query/connectors/) - Every connector with its capabilities, authentication and limitations.
 
 **Modeling, file formats & visuals**
 
@@ -99,6 +107,7 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Power BI Project (PBIP)](https://learn.microsoft.com/power-bi/developer/projects/projects-overview) - Save reports and models as folders of text files for source control.
 - [TMDL](https://learn.microsoft.com/analysis-services/tmdl/tmdl-overview) - Tabular Model Definition Language, the text format for semantic models.
 - [PBIR report format](https://learn.microsoft.com/power-bi/developer/projects/projects-report) - The text-based, documented report format.
+- [User-defined aggregations](https://learn.microsoft.com/power-bi/transform-model/aggregations-advanced) - Speed up large DirectQuery models with aggregation tables.
 - [Power BI Visuals Reference](https://www.sqlbi.com/ref/power-bi-visuals-reference/) 🆓 - SQLBI/OKVIZ poster that helps you choose the right visual.
 - [Financial Times Visual Vocabulary](https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary) 🆓 - Choose a chart type based on what you want to show.
 - [Tabular Editor documentation](https://docs.tabulareditor.com/) - Docs for TE2/TE3, C# scripting and the Best Practice Analyzer.
@@ -143,6 +152,11 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Nicky van Vroenhoven](https://www.nickyvv.com/) 🇳🇱 - Fabric, Power BI and the Power Platform.
 - [Erwin de Kreuk](https://erwindekreuk.com/) 🇳🇱 - Fabric data engineering and a metadata-driven Fabric framework.
 - [Sam Debruyn](https://debruyn.dev/) 🇧🇪 - Fabric Data Warehouse internals, dbt on Fabric and an up-to-date Fabric icon set.
+- [Power BI Community Blog](https://community.fabric.microsoft.com/category/fabricblogs/blog/community_blog) - Articles written by members of the Fabric Community.
+- [MSSQLTips: Power BI](https://www.mssqltips.com/category/power-bi/) - Large, regularly updated collection of Power BI tips by many authors.
+- [Kevin Chant](https://www.kevinrchant.com/) - CI/CD and DevOps for Fabric and Power BI.
+- [Hat Full of Data](https://hatfullofdata.blog/) - Laura Graham-Brown's notes on Power BI and the Power Platform.
+- [Gal in a Cube](https://data-ascend.com/) - Marthe Moengen on Power BI and Fabric governance and architecture.
 
 ## YouTube Channels
 
@@ -174,6 +188,20 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [SQLBits](https://www.youtube.com/@SQLBits) 🆓 - Free conference session recordings, many on Power BI and Fabric.
 - [dataMinds](https://www.youtube.com/@dataMindsbe) 🇧🇪 - Session recordings from Belgian dataMinds events.
 - [Get Responsive](https://www.youtube.com/@GetResponsive) 🇳🇱 - Dutch-language Power BI videos and the weekly #GetResponsLIVE livestream.
+- [Power BI with AI Vibes](https://www.youtube.com/@BIVibes-JasminSimader) - Jasmin Simader on Power BI, report design and AI.
+- [Power BI Bro](https://www.youtube.com/@PowerBIBro) - Rob Lau's practical tutorials.
+- [storytelling with data](https://www.youtube.com/channel/UCjhGlILWNloXJdR2NTCBMlA) - Data visualization and storytelling, not tied to any tool.
+
+**Notable talks**
+
+- [DAX 101](https://www.youtube.com/watch?v=klQAZLr5vxA) and [Advanced DAX](https://www.youtube.com/watch?v=6ncHnWMEdic) - Alberto Ferrari's two-hour introduction and follow-up.
+- [Deep dive into DAX evaluation context](https://www.youtube.com/watch?v=teYwjHkCEm0) - Marco Russo's conference session on evaluation context.
+- [Understanding relationships in Power BI](https://www.sqlbi.com/tv/understanding-relationships-in-power-bi) - Alberto Ferrari on relationship types and their effects.
+- [Understanding memory used by Power BI](https://www.youtube.com/watch?v=kpAZD7AeRQw) and [Common mistakes in big data models](https://www.youtube.com/watch?v=L3uT-cn_eO8) - SQLBI on model size and performance.
+- [DAX Filter Context in 1 Hour](https://www.youtube.com/watch?v=hZd9EgUR7Do) - Cecilia Brusatori.
+- [Fabric Direct Lake Deep Dive](https://www.youtube.com/watch?v=HHoqP8jTFTA) - Chris Webb on how Direct Lake works.
+- [How to Use TMDL View in Power BI Desktop](https://www.youtube.com/watch?v=cosXZw0GcRU) - PowerBI.tips.
+- [200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo) and [The best stats you've ever seen](https://www.youtube.com/watch?v=hVimVzgtD6w) - Hans Rosling's classics on telling stories with data.
 
 ## Podcasts & Newsletters
 
@@ -235,6 +263,10 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Best Practice Analyzer and Memory Analyzer in the service](https://learn.microsoft.com/power-bi/transform-model/service-notebooks) - Ready-made Semantic Link notebooks that check a published model against BPA rules or analyze its memory use.
 - [Translytical task flows](https://learn.microsoft.com/power-bi/create-reports/translytical-task-flow-overview) - Built-in write-back: report buttons call Fabric user data functions to add, edit or delete records.
 - [Fabric Data Factory](https://learn.microsoft.com/fabric/data-factory/) - Dataflow Gen2 (Power Query Online), pipelines and copy jobs to prepare data for Power BI.
+- [Power BI add-in for PowerPoint](https://learn.microsoft.com/power-bi/collaborate-share/office-integration/service-power-bi-powerpoint-add-in-about) - Live, interactive report pages and visuals in your slides.
+- [Fabric user data functions](https://learn.microsoft.com/fabric/data-engineering/user-data-functions/user-data-functions-overview) - Python functions in Fabric, used for write-back in translytical task flows.
+- [Plan in Fabric IQ](https://learn.microsoft.com/fabric/iq/plan/overview) - Collaborative planning, budgeting and write-back on semantic models.
+- [Fabric Apps](https://learn.microsoft.com/fabric/apps/overview) - Build and share data apps on top of Fabric.
 
 ### External Tools
 
@@ -277,6 +309,9 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [pbir-utils](https://github.com/akhilannan/pbir-utils) 🆓 - Python library, CLI and web UI to bulk-edit and validate PBIR report metadata.
 - [Power BI Developer Mode samples](https://github.com/microsoft/Analysis-Services/tree/master/pbidevmode) 🆓 - Microsoft's FabricPS-PBIP PowerShell module and sample Azure DevOps pipelines for PBIP.
 - [Fabric DataOps Patterns](https://github.com/kerski/fabric-dataops-patterns) 🆓 - John Kerski's templates for DAX tests and automated PBIP deployment with Azure DevOps and GitHub Actions.
+- [CI/CD in Microsoft Fabric](https://learn.microsoft.com/fabric/cicd/cicd-overview) - Overview of Git integration, deployment pipelines and APIs.
+- [Branched workspaces](https://learn.microsoft.com/fabric/cicd/git-integration/branched-workspace) - Feature workspaces linked to a source workspace and Git branch.
+- [Deployment plans](https://learn.microsoft.com/fabric/cicd/deployment-plan/deployment-plan-overview) - Repeatable, governed deployments across stages.
 
 ### Administration, Monitoring & Governance
 
@@ -299,6 +334,14 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Argus](https://www.arguspbi.com/) 💰 - Tenant-wide monitoring of refreshes, user activity and lineage.
 - [Impact IQ](https://github.com/BeSmarterWithData/ImpactIQ) 🆓 - Impact analysis down to the visual level, unused objects and backups of models and reports.
 - [Power BI REST API connector](https://github.com/kerski/powerquery-connector-pbi-rest-api-commercial) 🆓 - John Kerski's custom connector for building admin reports on the REST API without stored secrets.
+- [Retention and recovery](https://learn.microsoft.com/fabric/admin/retention-recovery) - Restore deleted workspaces and items.
+- [Surge protection](https://learn.microsoft.com/fabric/enterprise/surge-protection) - Limit background jobs so interactive reports stay responsive.
+- [Capacity overage](https://learn.microsoft.com/fabric/enterprise/capacity-overage-overview) - Pay for usage spikes instead of being throttled, within limits set by admins.
+- [OneLake catalog](https://learn.microsoft.com/fabric/governance/onelake-catalog-overview) - Discover and govern items, including semantic models and reports.
+- [Fabric policies](https://learn.microsoft.com/fabric/governance/fabric-policies-overview) - Centralized governance policies for the tenant.
+- [Data loss prevention for Power BI](https://learn.microsoft.com/purview/dlp-powerbi-get-started) - Detect sensitive data in semantic models with Purview DLP policies.
+- [Fabric security white paper](https://learn.microsoft.com/fabric/security/white-paper-landing-page) - End-to-end overview of Fabric security.
+- [Private links](https://learn.microsoft.com/fabric/security/security-private-links-overview) - Secure network access to Fabric and Power BI at tenant or workspace level.
 
 ### Developer, Embedding & APIs
 
@@ -393,6 +436,13 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [SWD chart guide](https://www.storytellingwithdata.com/chart-guide) 🆓 - Storytelling with Data's guide to common charts.
 - [Microsoft Fabric icons](https://learn.microsoft.com/fabric/fundamentals/icons) 🆓 - Official icons for Fabric items, for diagrams and documentation.
 - [Power Platform icons](https://learn.microsoft.com/power-platform/guidance/icons) 🆓 - Official Power BI and Power Platform product icons.
+- [Data Viz Project](https://datavizproject.com/) 🆓 - Visual catalog of chart types with examples.
+- [Datawrapper Academy](https://www.datawrapper.de/academy) 🆓 - Practical guides on chart choice, color and labeling (any tool).
+- [Gestalt principles of design](https://www.toptal.com/designers/ui/gestalt-principles-of-design) 🆓 - How people perceive grouping, proximity and alignment, useful for report layout.
+- [How to tell a story with data](https://hbr.org/2013/04/how-to-tell-a-story-with-data) - Harvard Business Review's classic article on data storytelling.
+- [Turning a corporate color palette into a data visualization color palette](https://www.sqlservercentral.com/blogs/turning-a-corporate-color-palette-into-a-data-visualization-color-palette) - Meagan Longoria.
+- [Image color picker](https://pinetools.com/image-color-picker) 🆓 - Pick hex colors from a logo or screenshot for your theme.
+- [Unicode character table](https://www.compart.com/en/unicode/) 🆓 - Find characters for icons with the DAX UNICHAR function.
 
 **SVG & Deneb templates**
 
@@ -427,6 +477,8 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Embedded Playground Showcases](https://playground.powerbi.com/en-us/showcases) 🆓 - Interactive demos of embedded scenarios.
 - [ZoomCharts Report Gallery](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/dashboard-and-report-examples/) 🔀 - Thousands of community reports by industry and domain.
 - [Inforiver demos](https://inforiver.com/demos/) 🆓 - Interactive sample reports, including IBCS, variance and financial statements.
+- [The Pudding](https://pudding.cool/) 🆓 - Visual essays that show what data storytelling can look like.
+- [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - Reddit community sharing data visualizations.
 
 **Challenges**
 
@@ -481,11 +533,16 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Copilot measure descriptions](https://learn.microsoft.com/power-bi/transform-model/desktop-measure-copilot-descriptions) - Let Copilot write descriptions for your measures.
 - [Copilot and agent admin settings](https://learn.microsoft.com/fabric/admin/service-admin-portal-copilot) - Tenant settings for AI access, processing regions and Copilot capacities.
 - [Copilot consumption and billing](https://learn.microsoft.com/fabric/fundamentals/copilot-fabric-consumption) - How Copilot uses capacity units, and how to monitor it.
+- [Release status of AI and Copilot features](https://learn.microsoft.com/fabric/fundamentals/copilot-ai-feature-state) - Which AI features are in preview and which are generally available.
+- [Privacy, security and responsible AI use of Copilot](https://learn.microsoft.com/fabric/fundamentals/copilot-privacy-security) - How Copilot handles your data.
 - [Copilot in Fabric](https://learn.microsoft.com/fabric/fundamentals/copilot-fabric-overview) - Overview of Copilot across all Fabric workloads.
 - [Fabric Copilot capacity](https://learn.microsoft.com/fabric/enterprise/fabric-copilot-capacity) - Licensing and capacity for Copilot.
 - [Fabric data agent](https://learn.microsoft.com/fabric/data-science/concept-data-agent) - Build conversational Q&A agents on semantic models, lakehouses and warehouses.
 - Fabric data agent in [Copilot Studio](https://learn.microsoft.com/fabric/data-science/data-agent-microsoft-copilot-studio) and [Microsoft 365 Copilot](https://learn.microsoft.com/fabric/data-science/data-agent-microsoft-365-copilot) - Use a data agent on your semantic model in custom agents, Teams and Microsoft 365 Copilot.
 - [Fabric IQ](https://learn.microsoft.com/fabric/iq/overview) - Adds business meaning to OneLake data with ontologies, graphs, data agents and semantic models. See also [generating an ontology from semantic models](https://learn.microsoft.com/fabric/iq/ontology/how-to-generate-from-semantic-models).
+- [Fabric IQ in Microsoft 365 Copilot Chat](https://learn.microsoft.com/fabric/iq/connectors/microsoft-365-copilot-overview) - Ask questions about your semantic models from Microsoft 365 Copilot.
+- [Semantic model best practices for data agents](https://learn.microsoft.com/fabric/data-science/semantic-model-best-practices) - How to prepare a model so data agents answer correctly.
+- [Get started with Fabric IQ](https://learn.microsoft.com/training/paths/get-started-fabric-iq/) 🆓 - Microsoft Learn path.
 - [Fabric IQ MCP](https://learn.microsoft.com/fabric/iq/connectors/fabric-iq-mcp) - Answer natural-language questions over governed Power BI data, for Microsoft 365 Copilot, Copilot Studio and custom agents.
 - [Fabric AI functions](https://learn.microsoft.com/fabric/data-science/ai-functions/overview) - Classification, sentiment, extraction and more with one line of code.
 - [Q&A](https://learn.microsoft.com/power-bi/natural-language/q-and-a-intro) - The classic natural-language visual.
@@ -506,6 +563,7 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Tabular Editor 3 MCP server](https://docs.tabulareditor.com/en/features/mcp-server.html) 💰 - Built into TE3: agents read, query and (with permission) change the model open in Tabular Editor.
 - [DAX Formatter MCP server](https://docs.sqlbi.com/dax-formatter/mcp-http) 🆓 - SQLBI's hosted and [local](https://docs.sqlbi.com/dax-formatter/mcp-stdio) servers that format and validate DAX.
 - [DAX Lib MCP](https://github.com/daxlib/daxlib-mcp) 🆓 - Search DAX Lib and install user-defined function packages into a model in Power BI Desktop.
+- [Fabric Remote MCP server](https://learn.microsoft.com/rest/api/fabric/articles/mcp-servers/core-remote/overview-core-mcp-server) - Microsoft-hosted MCP server for workspaces, items and OneLake.
 - [sulaiman013/powerbi-mcp](https://github.com/sulaiman013/powerbi-mcp) 🆓 - Community MCP server (Python) for Desktop and the service.
 - [SemanticOps MCP](https://github.com/maxanatsko/mcp-engine-public) - Formerly MCP Engine, by Maxim Anatsko. Read, query and change models in Power BI Desktop from an AI assistant. Proprietary license.
 
@@ -519,6 +577,7 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [pbi-cli](https://github.com/MinaSaad1/pbi-cli) 🆓 - CLI for semantic models (TOM) and PBIR reports, designed to save tokens for Claude Code, with bundled skills.
 - [powerbi-claude-skills](https://github.com/lukasreese/powerbi-claude-skills) 🆓 - Claude skills for gathering requirements and building PBIR report pages and IBCS variance charts.
 - [pbir.tools](https://github.com/maxanatsko/pbir.tools) - PBIR CLI built for agents; see [External Tools](#external-tools).
+- [Skills for Microsoft Fabric](https://learn.microsoft.com/fabric/fundamentals/skills-for-fabric-overview) - Microsoft's docs for the Fabric agent skills, per workload.
 
 ### Reading on AI & Power BI
 
@@ -537,6 +596,8 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [How to pick the right AI model for agentic development](https://tabulareditor.com/blog/picking-the-ai-model-for-the-task) - Tabular Editor: capability, speed and cost.
 - [Why semantic models behave differently in Fabric data agents](https://data-marc.com/2026/05/29/why-semantic-models-behave-differently-in-fabric-data-agents/) 🇳🇱 - Marc Lelijveld.
 - [Programmatically control Copilot access for semantic models](https://fabric.guru/programmatically-control-copilot-access-for-semantic-models) - Sandeep Pawar.
+- [Advanced DAX generation for semantic models in Fabric data agents](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advanced-DAX-generation-for-semantic-models-in-Fabric-data/ba-p/5363136) - Microsoft on how data agents write DAX against your model.
+- [Retirement of the Fabric data agent integration in Copilot in Power BI](https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/retirement-of-fabric-data-agent-integration-in-copilot-in-power-bi/5328344) - Deprecation notice and migration path.
 
 ## Community & Events
 
@@ -573,6 +634,9 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Awesome Power BI](https://github.com/NajiElKotob/Awesome-Power-BI) 🆓 - Naji El Kotob's curated list.
 - [Awesome Microsoft Fabric](https://github.com/bhakthan/awesome-microsoft-fabric) 🆓 - Curated Fabric resources, blogs and videos.
 - [Useful community tools and resources for Power BI and Fabric](https://blog.crossjoin.co.uk/2025/08/24/useful-community-tools-and-resources-for-power-bi-and-fabric/) - Chris Webb's roundup of free community tools.
+- [Awesome Power Query](https://github.com/NajiElKotob/Awesome-PowerQuery) 🆓 - Naji El Kotob's list of Power Query and M resources.
+- [Awesome Datasets](https://github.com/NajiElKotob/Awesome-Datasets) 🆓 - Naji El Kotob's list of datasets for practice.
+- [Data Storytelling](https://github.com/NajiElKotob/DataStorytelling) 🆓 - Naji El Kotob's collection of storytelling resources.
 
 ## Dutch & Belgian Community
 
